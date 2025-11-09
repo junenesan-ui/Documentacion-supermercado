@@ -1,9 +1,17 @@
 # Manual Operativo — Supermercado Económico Plus
 
-Este portal contiene toda la documentación estructurada del proyecto.
+Bienvenido al portal de documentación oficial.
 
-## Contenido
+Este manual contiene:
+
+- Procesos optimizados (con diagramas)
+- Indicadores clave de rendimiento (KPIs)
+- Lecciones aprendidas
+- Formatos estandarizados para reportes
+
+## Secciones del Manual
+
 - [Procesos optimizados](./procesos/)
-- [KPIs con metodologías de medición](./kpis/)
+- [KPIs y metodología de medición](./indicadores%20clave%20de%20rendimiento%20(KPI)/)
 - [Lecciones aprendidas](./lecciones/)
-- [Formatos estandarizados](./formatos/)
+- [Formatos de reporte](./formatos/)
