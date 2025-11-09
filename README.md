@@ -12,3 +12,16 @@ Este repositorio contiene la documentación oficial de procesos, KPIs, lecciones
 
 
 ## Estructura del repositorio
+/ ├── index.md ├── procesos/ ├── kpis/ ├── lecciones/ ├── formatos/ └── assets/
+
+## Acceso al portal
+Una vez activado GitHub Pages, este repositorio será accesible públicamente desde:
+`https://<tu-usuario>.github.io/super-economico-plus-docs`
+
+
+## Objetivo general
+Documentar el 100% de los procesos clave asegurando accesibilidad, estandarización y trazabilidad.
+
+
+## Contacto
+Para mantener y actualizar esta documentación, contactar al responsable de Gestión de Procesos.
